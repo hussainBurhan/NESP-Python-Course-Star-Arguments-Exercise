@@ -1,4 +1,4 @@
-Star Arguments
+# Star Arguments
 This Python program defines a function sum_of_args which calculates the sum of variable arguments. 
 It takes any number of arguments, adds them together, and prints the result.
 
